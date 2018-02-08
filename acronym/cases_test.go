@@ -30,4 +30,8 @@ var stringTestCases = []acronymTest{
 		input:    "Complementary metal-oxide semiconductor",
 		expected: "CMOS",
 	},
+	{
+		input:    "",
+		expected: "",
+	},
 }
